@@ -1,15 +1,19 @@
 {
-    "name": "yurcapricorn/multiexception",
-    "description": "multiexception lib",
-    "type": "library",
-    "license": "pr-of-it",
-    "minimum-stability": "dev",
-    "require": {
-    "php": "^7.0"
-    },
-    "autoload": {
-      "psr-4": {
-        "Multiexception\\": "Package/"
-      }
+  "name": "yurcapricorn/multiexception",
+  "description": "multiexception lib",
+  "type": "library",
+  "license": "pr-of-it",
+  "authors": [
+    {
+      "name": "Yuriy Odnorobov"
     }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Multiexception\\": "Package/"
+    }
+  }
 }
