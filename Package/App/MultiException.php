@@ -1,6 +1,6 @@
 <?php
 
-namespace Multiexception\App;
+namespace Yurcapricorn\Multiexception\App;
 
 /**
  * Class MultiException
