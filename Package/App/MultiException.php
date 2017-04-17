@@ -10,11 +10,6 @@ class MultiException extends \Exception implements \Iterator
 {
     use Iterator;
     /**
-     * @var array
-     */
-    protected $data = [];
-
-    /**
      * @param \Exception $e
      */
     public function add(\Exception $e) {

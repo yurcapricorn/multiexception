@@ -1,6 +1,6 @@
 <?php
 
-namespace Multi\App;
+namespace Multiexception\App;
 
 /**
  * Trait Iterator
