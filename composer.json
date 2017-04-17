@@ -9,7 +9,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Multi\\": "Package/"
+        "Multiexception\\": "Package/"
       }
     }
 }
